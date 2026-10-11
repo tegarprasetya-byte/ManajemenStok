@@ -1,0 +1,26 @@
+========== LAPORAN STOK PRODUK ==========
+
+Produk ke-1
+Kode       : P001
+Nama       : Buku
+Harga      : Rp4,000
+Stok       : 20
+Nilai Stok : Rp80,000
+----------------------------------------
+Produk ke-2
+Kode       : P002
+Nama       : Pulpen
+Harga      : Rp1,200
+Stok       : 14
+Nilai Stok : Rp16,800
+----------------------------------------
+Produk ke-3
+Kode       : P003
+Nama       : Laptop
+Harga      : Rp3,400,000
+Stok       : 12
+Nilai Stok : Rp40,800,000
+----------------------------------------
+
+Total jenis produk: 3
+Total nilai stok: Rp40,896,800
